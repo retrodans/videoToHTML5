@@ -1,7 +1,10 @@
 # Developer Notes
 * Written for Ubuntu
 * Originally based on https://gist.github.com/yellowled/1439610
-* Useful reading (webm): http://daniemon.com/blog/how-to-convert-videos-to-webm-with-ffmpeg/
+* Useful reading (webm):
+  * https://gist.github.com/yellowled/1439610
+  * http://daniemon.com/blog/how-to-convert-videos-to-webm-with-ffmpeg/
+  * http://stackoverflow.com/questions/5603825/ffmpeg-terrible-conversion-quality-when-using-sameq-same-quantizer-as-source
 
 ## Requirements
 * ffmpeg
