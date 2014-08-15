@@ -15,4 +15,4 @@ Ensure the script has the executable bit set then simply run it using a command 
 * Param3 = The audio quality to use
 
 ## Troubleshooting
-`No known bugs as yet`
+*No known bugs as yet*
